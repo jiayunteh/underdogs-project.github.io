@@ -1,0 +1,18 @@
+body{
+	background-color: black; 
+	color: white;}
+h1{font-size: 64px; 
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-style: italic; 
+	text-align: center;}
+.summary{
+	padding: 25px; 
+	font-family: "Comic Sans MS", cursive, sans-serif; 
+	font-size: 16px; 
+	text-align: justify;}
+.quote{
+	padding: 40px;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-size: 15px;
+	font-style: italic;}
+.end{font-size: 18px;}
